@@ -7,9 +7,12 @@ const Home = () => (
     <Head>
       <title>Tech Edge Advisors - Make Software Work</title>
       <meta name="description" content="Together, we can make software work. An integrated technical consultancy and software development agency with a laser focus on solving your business needs." />
-    </Head>
+      
+      <link rel="icon" href="/favicon.ico" />
+      <link rel="stylesheet" href="https://use.typekit.net/ijg4dno.css"/>
 
-    <Nav/>
+      <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/6238237.js"></script>
+    </Head>
 
     <img className="cover" src="/img/mountains@2x.png"></img>
 
