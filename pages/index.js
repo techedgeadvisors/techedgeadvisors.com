@@ -5,12 +5,11 @@ import Nav from '../components/nav'
 const Home = () => (
   <div>
     <Head>
-      <title>Home</title>
-      <link rel="icon" href="/favicon.ico" />
-      <link rel="stylesheet" href="https://use.typekit.net/ijg4dno.css"/>
-
-      <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/6238237.js"></script>
+      <title>Tech Edge Advisors - Make Software Work</title>
+      <meta name="description" content="Together, we can make software work. An integrated technical consultancy and software development agency with a laser focus on solving your business needs." />
     </Head>
+
+    <Nav/>
 
     <img className="cover" src="/img/mountains@2x.png"></img>
 
